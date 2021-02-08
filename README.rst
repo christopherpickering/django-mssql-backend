@@ -120,7 +120,7 @@ Dictionary. Current available keys are:
 -  driver
 
    String. ODBC Driver to use (``"ODBC Driver 13 for SQL Server"``,
-   ``"SQL Server Native Client 11.0"``, ``"FreeTDS"`` etc).
+   ``"ODBC Driver 13 for SQL Server"``, ``"SQL Server Native Client 11.0"``, ``"FreeTDS"`` etc).
    Default is ``"ODBC Driver 13 for SQL Server"``.
 
 -  isolation_level
